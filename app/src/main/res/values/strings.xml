@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Git PRs</string>
+    <string name="err_search">Oops! Something went wrong</string>
+    <string name="enter_your_github_username">Enter your Github Username.</string>
+    <string name="next">Next</string>
+    <string name="continue_msg">Continue</string>
+    <string name="info_valid_username">Please enter valid username.</string>
+    <string name="info_no_repositories">No Repositories for this user.</string>
+    <string name="info_no_pr_found">No Pull requests find for this repositories.</string>
+    <string name="label_by">by</string>
+    <string name="my_github_username">square</string>
+    <string name="info_pull_requests">Pull Requests</string>
+    <string name="repositories">Repositories</string>
+    <string name="item_icons">Repo Icons</string>
+</resources>

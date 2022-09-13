@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_repo.xml",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_pull_request.xml",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_pull_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\incremental\\mergeProdDebugResources\\stripped.dir\\layout\\fragment_landing.xml",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_landing.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7253145f0a1898dcebca38edaf22342/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e70d6e60a974d2d463d81983724f760/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/04ef0dd13e4c5317ede0d2f85fda64e5/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cc5624bbc193217f95fdf087a89ca68c/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9b82fe52073228f367965c4945cd1b9d/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b82fe52073228f367965c4945cd1b9d/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b82fe52073228f367965c4945cd1b9d/transformed/jetified-rxbinding-recyclerview-v7-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding2/rxbinding-recyclerview-v7/2.1.1/606b58f05cae868a38c6dd9f29d52092ab2310da/rxbinding-recyclerview-v7-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding2/rxbinding-recyclerview-v7/2.1.1/3712a0d5e20d6e922bb936414d0e3b3a30fe408b/rxbinding-recyclerview-v7-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

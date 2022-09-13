@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\raw_git.gif.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\raw\\git.gif"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_no_data.png.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\navigation_main_navigation.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\navigation\\main_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_language.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_item_loading.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_user.png.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_searching.png.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_searching.png"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_repo.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_error.png.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_watchers.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_watchers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_landing.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_landing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_stars.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_stars.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_item_repo.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\item_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_closed_pr.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_closed_pr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\raw_gif_search_folder.gif.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\raw\\gif_search_folder.gif"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_empty_view.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_ic_create_document.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\ic_create_document.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\drawable_bg_button_shape.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\drawable\\bg_button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_item_pr.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\item_pr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\build\\intermediates\\merged_res\\prodDebug\\layout_fragment_pull_request.xml.flat",
+        "source": "C:\\Users\\Pankaj\\Downloads\\Closed PRs\\app\\src\\main\\res\\layout\\fragment_pull_request.xml"
+    }
+]

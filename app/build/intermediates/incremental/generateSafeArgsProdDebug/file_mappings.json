@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\main_navigation.xml","javaFiles":["com.pankajlilan.closedprs.presentation.ui.landing.LandingFragmentDirections","com.pankajlilan.closedprs.presentation.ui.repo.RepoFragmentDirections","com.pankajlilan.closedprs.presentation.ui.repo.RepoFragmentArgs","com.pankajlilan.closedprs.presentation.ui.pullRequest.PullRequestFragmentArgs"]}]
